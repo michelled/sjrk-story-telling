@@ -117,7 +117,7 @@ https://raw.githubusercontent.com/fluid-project/sjrk-story-telling/master/LICENS
                 options: {
                     multilingualSettings: {
                         locale: "es",
-                        tocHeader: "Table des matières"
+                        tocHeader: "Tabla de contenido"
                     },
                     terms: {
                         "templatePrefix": "node_modules/infusion/src/framework/preferences/html",
