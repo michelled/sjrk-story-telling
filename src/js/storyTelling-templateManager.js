@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/fluid-project/sjrk-story-telling/master/LICENS
     fluid.defaults("sjrk.storyTelling.templateManager", {
         gradeNames: "fluid.viewComponent",
         model: {
-            locale: "en"
+            locale: "es"
         },
         templateConfig: {
             templatePath: null,

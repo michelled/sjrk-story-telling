@@ -115,10 +115,10 @@ https://raw.githubusercontent.com/fluid-project/sjrk-story-telling/master/LICENS
                 type: "fluid.uiOptions.prefsEditor.multilingualDemo",
                 container: ".flc-prefsEditor-separatedPanel",
                 options: {
-                    // multilingualSettings: {
-                    //     locale: "es",
-                    //     tocHeader: "Table des matières"
-                    // },
+                    multilingualSettings: {
+                        locale: "es",
+                        tocHeader: "Table des matières"
+                    },
                     terms: {
                         "templatePrefix": "node_modules/infusion/src/framework/preferences/html",
                         "messagePrefix": "src/messages/uio"
